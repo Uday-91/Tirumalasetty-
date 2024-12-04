@@ -1,9 +1,6 @@
 # Face-Recognition-Attendance-Management-System
 Attendance Management System based on Face Recognition using Python  and OpenCv  
 
-### Sourcerer
-<img src="![uday passport size photo](https://github.com/user-attachments/assets/b24e3cf1-89a7-49c1-8df7-3760fb25a74c)
-" height="50px" width="50px" alt=""/>
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
